@@ -1,0 +1,16 @@
+.detailsContainer {
+  background: linear-gradient(
+    0deg,
+    rgba(255, 254, 250, 1) 0%,
+    rgba(253, 218, 64, 1) 82%
+  );
+  height: 45rem;
+  padding: 10px;
+  min-width: 65rem;
+  border-radius: 15px;
+  border: 1px solid;
+}
+
+.detail {
+  border-bottom: 1px solid gray;
+}
